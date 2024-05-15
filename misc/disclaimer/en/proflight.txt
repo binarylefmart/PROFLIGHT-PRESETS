@@ -6,6 +6,8 @@ Be careful with settings, you can permanently dammage your DRONE.
 If you wana use the new rescue mode you can't use less than 57600 or 10 hz and have good results.
 You need to set MAGNOMETER flag at flash and enable GPS and BAROMETER features.
 
-Keep in mind than your are responsible of your fly and than the firmware can't be responsible of crash if you set wrong settings.
+Remember, you can manage all features with the OSD menu on the FLY SECURITY tab.
+
+/!\ Keep in mind than your are responsible of your fly and than the firmware can't be responsible of crash if you set wrong settings /!\
 
 Have a nice flight.
