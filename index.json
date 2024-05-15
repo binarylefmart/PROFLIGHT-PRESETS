@@ -172,7 +172,7 @@
     },
     {
       "fullPath": "presets/4.5/other/PROFLIGHT/proflight_altilimit.txt",
-      "hash": "fe4e70896182d887db970aa238f0131d449e83720214a6423e7289d094ed2208",
+      "hash": "159d02c633f727127223a37aa4dec5cfdf40c4fee159e8f3dab44a62ede771fa",
       "title": "Altilimit/Geowarning commands",
       "firmware_version": [
         "4.5"
