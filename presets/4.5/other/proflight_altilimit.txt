@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: pro, geowarning, fr, altilimit
+#$ KEYWORDS: proflight, geowarning, fr, altilimit, pro
 #$ AUTHOR: BinaryWhite
 #$ DESCRIPTION: Altimit and Geowarning commands for French professionnal pilots
 #$ DESCRIPTION: For PROFLIGHT Firmware
