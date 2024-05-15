@@ -32,7 +32,7 @@
 	#$ OPTION END
 
 	#$ OPTION BEGIN (UNCHECKED): Altilimit <b>50m</b>
-	
+
 		set alti_limit = ON
 		set alti_start_lim = 35
 		set alti_cutoff = 50
@@ -61,28 +61,28 @@
 	#$ OPTION BEGIN (UNCHECKED): Geowarning <b>50m</b>
 
 		set geo_warning = ON
-		geo_warning_dist = 50
+		set geo_warning_dist = 50
 
 	#$ OPTION END
 
 	#$ OPTION BEGIN (UNCHECKED): Geowarning <b>100m</b>
 
 		set geo_warning = ON
-		geo_warning_dist = 100
+		set geo_warning_dist = 100
 
 	#$ OPTION END
 
 	#$ OPTION BEGIN (UNCHECKED): Geowarning <b>200m</b>
 
 		set geo_warning = ON
-		geo_warning_dist = 200
+		set geo_warning_dist = 200
 
 	#$ OPTION END
 
 	#$ OPTION BEGIN (UNCHECKED): Geowarning <b>500m</b>
 
 		set geo_warning = ON
-		geo_warning_dist = 500
+		set geo_warning_dist = 500
 		
 	#$ OPTION END
 #$ OPTION_GROUP END

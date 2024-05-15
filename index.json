@@ -153,7 +153,7 @@
   "presets": [
     {
       "fullPath": "presets/4.4/other/PROFLIGHT/proflight_altilimit.txt",
-      "hash": "97b5827c1cfef8687552b169e5dd0da57a21934eb90d4821c765252850427840",
+      "hash": "3732c04263f7bd737526db3768fd4d5b405814ba81a07f0cbb1661ed11501895",
       "title": "Altilimit/Geowarning commands",
       "firmware_version": [
         "4.4"
@@ -172,7 +172,7 @@
     },
     {
       "fullPath": "presets/4.5/other/PROFLIGHT/proflight_altilimit.txt",
-      "hash": "159d02c633f727127223a37aa4dec5cfdf40c4fee159e8f3dab44a62ede771fa",
+      "hash": "1a3df1e8268bb85986b9571e7cd901bc22d692ac6f3d6c075de8b295ca86fb93",
       "title": "Altilimit/Geowarning commands",
       "firmware_version": [
         "4.5"
