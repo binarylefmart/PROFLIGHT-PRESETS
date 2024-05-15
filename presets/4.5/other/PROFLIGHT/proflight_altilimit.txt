@@ -49,7 +49,7 @@
 #$ OPTION_GROUP END
 
 #$ OPTION_GROUP BEGIN: PROFLIGHT Geowarning Features
-	#$ OPTION BEGIN (UNCHECKED): Geowarning disabled 
+	#$ OPTION BEGIN (UNCHECKED): Geowarning <b>disabled</b> 
 		set geo_warning = OFF
 
 	#$ OPTION END
