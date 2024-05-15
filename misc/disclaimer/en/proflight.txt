@@ -1,0 +1,9 @@
+Hi!
+
+Be careful with the settings, you can permanently damage your DRONE.
+DO NOT USE with mountain environement.
+Keep in mind than your are responsible of your fly and than the firmware can be responsible of crash if you change wrong settings.
+If you wana use the new rescue mode you can't use less than 57600 or 10 hz and have good results.
+You need to set magnometer flag at flash and enable gps and barometer features.
+
+Have a nice fly.

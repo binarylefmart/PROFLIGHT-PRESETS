@@ -1,0 +1,68 @@
+#$ TITLE: Altilimit/Geowarning commands
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: pro, geowarning, fr, altilimit
+#$ AUTHOR: BinaryWhite
+#$ DESCRIPTION: Altimit and Geowarning commands for French professionnal pilots
+#$ DESCRIPTION: For PROFLIGHT Firmware
+#$ DESCRIPTION:
+#$ WARNING: Must be used with PROFLIGHT firmware
+#$ DISCUSSION: https://github.com/binarylefmart/PROFLIGHT-PRESETS/
+
+#$ INCLUDE_DISCLAIMER: misc/disclaimer/en/proflight.txt
+
+#$ INCLUDE: presets/4.5/other/proflight_altilimit.txt
+
+#$ OPTION_GROUP BEGIN: PROFLIGHT Altilimit Features
+	#$ OPTION BEGIN (UNCHECKED): Altilimit disabled
+		set alti_limit = OFF
+	#$ OPTION END
+
+	#$ OPTION BEGIN (UNCHECKED): Altilimit 30m
+		set alti_limit = ON
+		set alti_start_lim = 15
+		set alti_cutoff = 30
+		set alti_warning_lim = 15
+	#$ OPTION END
+
+	#$ OPTION BEGIN (UNCHECKED): Altilimit 50m
+		set alti_limit = ON
+		set alti_start_lim = 35
+		set alti_cutoff = 50
+		set alti_warning_lim = 30
+	#$ OPTION END
+
+	#$ OPTION BEGIN (UNCHECKED): Altilimit 120m
+		set alti_limit = ON
+		set alti_start_lim = 110
+		set alti_cutoff = 120
+		set alti_warning_lim = 90
+	#$ OPTION END
+#$ OPTION_GROUP END
+
+#$ OPTION_GROUP BEGIN: PROFLIGHT Geowarning Features
+	#$ OPTION BEGIN (UNCHECKED): Geowarning disabled 
+		set geo_warning = OFF
+	#$ OPTION END
+
+	#$ OPTION BEGIN (UNCHECKED): Geowarning 50m
+		set geo_warning = ON
+		geo_warning_dist = 50
+	#$ OPTION END
+
+	#$ OPTION BEGIN (UNCHECKED): Geowarning 100m
+		set geo_warning = ON
+		geo_warning_dist = 100
+	#$ OPTION END
+
+	#$ OPTION BEGIN (UNCHECKED): Geowarning 200m
+		set geo_warning = ON
+		geo_warning_dist = 200
+	#$ OPTION END
+
+	#$ OPTION BEGIN (UNCHECKED): Geowarning 500m
+		set geo_warning = ON
+		geo_warning_dist = 500
+	#$ OPTION END
+#$ OPTION_GROUP END
