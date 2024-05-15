@@ -1,4 +1,4 @@
-#$ TITLE: Altilimit/Geowarning commands
+#$ TITLE: PROFLIGHT Altilimit/Geowarning
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OTHER
 #$ STATUS: EXPERIMENTAL
@@ -10,7 +10,6 @@
 #$ DESCRIPTION: Altimit and Geowarning commands for French professionnal pilots
 #$ DESCRIPTION:
 #$ WARNING: Must be used with PROFLIGHT firmware
-#$ DISCUSSION: https://github.com/binarylefmart/PROFLIGHT-PRESETS/
 
 #$ INCLUDE_DISCLAIMER: misc/disclaimer/en/proflight.txt
 
